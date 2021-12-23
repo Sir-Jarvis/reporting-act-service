@@ -1,0 +1,1 @@
+web: gunicorn gestion_reporting_journalier.wsgi
