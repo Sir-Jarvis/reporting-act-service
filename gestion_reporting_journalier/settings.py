@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'reporting_journalier_activites',
+    'reporting_journalier_activites.apps.ReportingJournalierActivitesConfig',
     'rest_framework',
 ]
 
